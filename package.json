@@ -1,0 +1,19 @@
+{
+  "name": "node-js-ornekleri",
+  "version": "1.0.0",
+  "description": "Java Script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KbuCrew/Node-js-Ornekleri.git"
+  },
+  "author": "husam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KbuCrew/Node-js-Ornekleri/issues"
+  },
+  "homepage": "https://github.com/KbuCrew/Node-js-Ornekleri#readme"
+}
