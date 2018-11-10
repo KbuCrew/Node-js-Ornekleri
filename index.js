@@ -1,6 +1,6 @@
 // foreach exapmle
 
-var tatlilar = ['kek','baklava','tiramisu','trilice','kabak','köstebek','sütlaç','kazandibi','malaga'];
+var tatlilar = ['kek','baklava','tiramisu','trilice','kabak','köstebek','sütlaç','kazandibi','malaga','güllaç'];
 
 tatlilar.forEach(element => {
     console.log(element)
